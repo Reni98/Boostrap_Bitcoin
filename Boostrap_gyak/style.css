@@ -1,0 +1,4 @@
+.cardselement.cards.card {
+    background-color: antiquewhite;
+    transition: transform 2s ease-in-out opacity .5s ease-out;
+}
